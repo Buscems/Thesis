@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.thesisprototype1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\nickb\\Documents\\Desktop_Stuff\\DGD\\Thesis Prototype 1 (1)\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Thesis Prototype 1 [Testing]"
+        }
+      }
+    }
+  ]
+}
